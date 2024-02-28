@@ -46,3 +46,7 @@ body{
  .text {
    font-size: 19px;
  }
+
+ body {
+  font-family:Arial, sans-serif;
+}
